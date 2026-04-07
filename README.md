@@ -32,7 +32,7 @@
 - Python, C#, JavaScript  
 - PyTorch, TensorFlow  
 - OpenCV, NumPy  
-- Docker, Linux, Unity  
+- Docker, Unity  
 
 ---
 
