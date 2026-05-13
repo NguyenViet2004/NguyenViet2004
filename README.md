@@ -29,7 +29,7 @@
 ---
 
 ## 🛠 Tech Stack
-- Python, C#, Java
+- Python, C#, C/C++, Java
 - PyTorch, TensorFlow  
 - OpenCV, NumPy  
 - Docker, Unity  
