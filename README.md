@@ -19,7 +19,7 @@
 ---
 
 ### 🐞 Insect Recognition Mobile App
-👉 https://github.com/toilaxien/UngDungNhanDienConTrungBangAI
+👉 [https://github.com/toilaxien/UngDungNhanDienConTrungBangAI](https://github.com/NguyenViet2004/InsectDex)
 
 - Role: Model + deployment
 - YOLO + MobileNetV3
